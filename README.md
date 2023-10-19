@@ -1,2 +1,2 @@
 # python-auto-script
-Python project of with Auto scheduled
+Python project with Auto scheduled Script 
